@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ricerca di merker genetici femminili e maschili all'interno del complesso di specie <i> Silene acaulis </i>
+title: Ricerca di marker genetici femminili e maschili all'interno del complesso di specie <i> Silene acaulis </i>
 category: research
 background: '/research/assets/images/bg_silene-sex.jpg'
 
