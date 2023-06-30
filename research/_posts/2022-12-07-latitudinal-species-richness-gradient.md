@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latitudinal species richness gradient
+title: Gradiente latitudinale der numero di specie
 category: research
 background: '/research/assets/images/bg-latitudinal.jpeg'
 
