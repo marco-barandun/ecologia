@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gradiente latitudinale der numero di specie
+title: Gradiente latitudinale della biodiversità
 category: research
 background: '/research/assets/images/bg-latitudinal.jpeg'
 
